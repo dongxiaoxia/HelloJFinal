@@ -1,0 +1,11 @@
+com\demo\user\intercepter\AuthIntercepter.class
+com\demo\user\validator\LoginValidator.class
+com\demo\common\config\DemoConfig.class
+com\demo\common\model\GeneratorDemo.class
+com\demo\common\controller\IndexController.class
+com\demo\common\model\User.class
+com\demo\common\model\base\BaseUser.class
+com\demo\common\model\_MappingKit.class
+com\demo\common\vo\AjaxResult.class
+com\demo\user\service\UserService.class
+com\demo\user\controller\UserController.class
